@@ -27,6 +27,7 @@
   "homepage": "https://github.com/fdnd-task/connect-your-tribe-profile-card#readme",
   "dependencies": {
     "express": "latest",
-    "liquidjs": "latest"
+    "liquidjs": "latest",
+    "nodemon": "^3.1.11"
   }
 }
